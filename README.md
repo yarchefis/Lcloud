@@ -12,3 +12,4 @@ Translation into Russian</summary>
 </details>
 
 ## Installation and Configuration
+I have thought everything through and the installation is very simple and the setup is generally easier.
