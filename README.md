@@ -12,4 +12,10 @@ Translation into Russian</summary>
 </details>
 
 ## Installation and Configuration
-I have thought everything through and the installation is very simple and the setup is generally easier.
+The rest is later, I haven't finished yet.
+<details>
+<summary>
+Translation into Russian</summary>
+<br>
+Остальное позже, я еще не закончил.
+</details>
