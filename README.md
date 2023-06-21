@@ -12,6 +12,7 @@ Translation into Russian</summary>
 </details>
 
 ## Installation and Configuration
+![alt text](https://raw.githubusercontent.com/yarchefis/Lcloud/main/32C84D36-CC0E-4A39-A989-CA6CE76FCCE8.jpeg?raw=true)
 The rest is later, I haven't finished yet.
 <details>
 <summary>
