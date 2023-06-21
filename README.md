@@ -2,7 +2,7 @@
 # Lcloud Local analogue of icloud
 привет из России, для тебя я сделал выпадающие списки, чтобы ты не парился с переводом.
 ## How does it work?
-###как это работает?
+### как это работает?
 A web server is running on your computer, which you can go to by the IP address of the computer. There are 2 modes on the site: send it from the phone and vice versa from the computer to the phone. In the modes, you can select a user (this is necessary if you are not alone). I think you understand the logic of the work, let's move on to installation and configuration.
 <details>
 <summary>
