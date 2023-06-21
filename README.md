@@ -11,7 +11,7 @@ Translation into Russian</summary>
 На вашем компьютере запущен веб-сервер, на который вы можете перейти по IP-адресу компьютера. На сайте есть 2 режима: отправить его с телефона и наоборот с компьютера на телефон. В режимах вы можете выбрать пользователя (это необходимо, если вы не один). Думаю, вы понимаете логику работы, давайте перейдем к установке и настройке.
 </details>
 
-## Installation and Configuration
+
 ![alt text](https://raw.githubusercontent.com/yarchefis/Lcloud/main/32C84D36-CC0E-4A39-A989-CA6CE76FCCE8.jpeg?raw=true)
 The rest is later, I haven't finished yet.
 <details>
