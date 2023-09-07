@@ -1,21 +1,26 @@
-![alt text](https://raw.githubusercontent.com/yarchefis/Lcloud/main/56C49BB9-FA9B-47EF-B54D-CE3C1E7FC37B.jpeg?raw=true)
 # Lcloud - Local analogue of icloud
-###### привет из России, для тебя я сделал выпадающие списки чтобы ты не парился с переводом, ну я думаю заголовки ты понимаешь.
-## How does it work?
+## about the project
 
-A web server is running on your computer, which you can go to by the IP address of the computer. There are 2 modes on the site: send it from the phone and vice versa from the computer to the phone. In the modes, you can select a user (this is necessary if you are not alone). I think you understand the logic of the work, let's move on to installation and configuration.
-<details>
-<summary>
-Translation into Russian</summary>
-<br>
-На вашем компьютере запущен веб-сервер, на который вы можете перейти по IP-адресу компьютера. На сайте есть 2 режима: отправить его с телефона и наоборот с компьютера на телефон. В режимах вы можете выбрать пользователя (это необходимо, если вы не один). Думаю, вы понимаете логику работы, давайте перейдем к установке и настройке.
-</details>
+My task was to abandon the icloud service (now I'm on android) because it had its limitations. I wanted to freely transfer photos and videos to my computer without quality loss.
+
+project site https://yarchefis.ru/lcloud
+## supported OS
+
+By default the server runs on windows but you can get the site files from www and run them on your operating system.
+
+
 
 ## Installation and Configuration
-The rest is later, I haven't finished yet.
-<details>
-<summary>
-Translation into Russian</summary>
-<br>
-Остальное позже, я еще не закончил.
-</details>
+Okay let's start. 
+
+-download the zip archive and extract it to a convenient location. 
+
+-Press ```WIN+R``` and type ```shell:startup``` 
+
+-in the Lcoud folder, find the ```start_server.bat``` file and create a shortcut in the opened ```shell:startup``` folder. 
+
+-after starting the computer, Lcloud will start by itself, if you want to start it now, just run the shortcut. 
+
+#### if you get errors, run the file again or run the UniController.exe utility and press the start Apache button
+
+contact me if you need additional help support@yarchefis.ru
